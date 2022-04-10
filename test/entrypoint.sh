@@ -1,5 +1,2 @@
 #!/bin/sh
-echo "hi"
-
-ls
-techdocs-cli build
+techdocs-cli build --no-docker
