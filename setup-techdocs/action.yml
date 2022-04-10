@@ -1,0 +1,5 @@
+name: "tecdocs"
+description: "Tecdocs Utility"
+runs:
+  using: "docker"
+  image: "Dockerfile"
